@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "online-gift-store-bb0d8",
+  "private_key_id": "fc58215f28d070ba881f1a3d0950236b58295c27",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCxQ4bP1x592NMB\nnRaHl05OucH4bwiGWlUkqR8ZSJneVgOZoxFbX7I3kkLOTyGAaAw4pOzkxbedhwqz\ngn8nzmBVbQPRGwCEojfaUG0oHvgIq2Ksv5Sf1eLkKN/kZ/axdwirHu5+MCQrPimq\nhRS9Otb6/p3XP6oPYWNvJgnRY4lSanlJf27uqC6fdboa8aHJTOq6+UJ+/imyXrsU\nxSrq6P8ZPEeTKOo8pRzGWbJPP+XFkxQojRXDTkeuSMW6PiQRWvYm3oqX4aAMTbc0\nPpgeH4+Q6CnrjC90G8BR6O7iwyKKzCdkHFNcbWxZXsHN5yLQ25siMoPSP40eRB7l\nbtSahQHtAgMBAAECggEAJmNBwCPNciJw+6H5vY5aQnk+1N6ywWmxk5leZzrOO5Rz\n/iMOwLN2JEuz1PrU/fpKXz/0H0zkCSS0ABDsGYI7YXSUxYVr9M0ufEQ7h1tBipsW\n6OMqO/z1QETLy6pqBZ+KDIjLzB7/zi+NlWRxi9NAuCVIqFMcsGz+PBVIPgSoueSB\nc9cJxHKRkSxjGCDXQWptxofjjzlgcDZbG+L1u1IFGxN223LYWHlFXCyfxIDCnawZ\np9eIqLKoci86L0wsI9FyBzG+C4F+vmeGbOWlJGKrBG95SAH/LL/HzLev503qmfwc\nfPKLnkx26/xRlWIkSS5NWiynvWPgVW8o30EZflVCnwKBgQDk3gqvyN18yxn0oIbS\nsi9rtgf5w+I0m7OEF1s1jkH9bS6MqFEOeOceJJ2NnCWB7KU/t084pAVBFGb9rhI6\niSx75D5i80RVn15iwVfCJWv4jy+LNzHndZs9oL4jHcItRTG1TFQg86oWpADerKC2\nl5x8Dbe3cjpG65iDV9YizAMNNwKBgQDGR1qQIfPkeZpGtYA4xw00ZekDHxNE8JhO\nNYTXbF4gZccKp5Fl3U75wzjiU99gp+qtJfU51z7558icuHYOq/eAX10hqLefCsvD\nOo9Ht3ZtAQt/zmcxY3Nlb1kNLKR/ob66nxUJS4yq5sI2Lk/xj7xY9qCNg0zcniFJ\n/0nf1w/b+wKBgQC7522gu2rVna72wKFQ9Yinh3Fu6Budk8REjCSPiPe3CWAxjbPX\nDP68KdXNQUkuLcvSzz7Uwx2pPAX++17t/leudEugVBhjsA//Rrw1oyHNlkmzpCJt\n5YoKhCH3lOQq5OeV8VAVKdkY85ffOp5Mq5eH5n9Stw8P0TiLhZ9DPHq46wKBgCzs\nw98+YiVVTBhTTW8P4rUJlicH5nTLUqb9x1CMFDOg+901JGOBJkC+8+eL+2PKCAkd\nPZfSZkl3M+QWg2FFo3lpog9bS+d0KcDdRtOIBQQjpXhaytTM5LuJ5BJxGAB3JGDi\nZIDLpl6elEh0a9aeq504nB4ULtkZ1w8OEa3u63/7AoGASPW0H7zMH1ugsKBgnnUF\nwUYyJ4rPNe9uIldTqYVJEgD2KgU/Nx7AsRERZI9zrMY6dC5jkgpHBh4t4rbublvL\nkscYLaKrvziIWIf7tjtnQeDqIoaUoQekhGb2vVj19lSBnjjKOxgfUsJ08/RIPv4v\ntL63Tm18rU6XtwdHYKbQ3SA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-sp6o9@online-gift-store-bb0d8.iam.gserviceaccount.com",
+  "client_id": "115514982752426765006",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-sp6o9%40online-gift-store-bb0d8.iam.gserviceaccount.com"
+}
